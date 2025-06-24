@@ -1,0 +1,1 @@
+# QUIZ GENERATOR is a backend web app which is used to create quiz for with different questions
