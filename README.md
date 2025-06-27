@@ -12,9 +12,9 @@ A simple RESTful API to create, retrieve, and evaluate quizzes built with Java a
 
 ## 🛠️ Tech Stack
 
-- Java 17
-- Spring Boot 3.x
+- Java 21
+- Spring Boot 6
 - Spring Data JPA
-- MySQL
+- MSSQL
 - Maven
 - Postman (for API testing)
